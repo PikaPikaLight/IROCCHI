@@ -1,7 +1,7 @@
 //Guess the different colors game
 //Wio Terminal
 //Ver.1.0.0
-//by 
+//by PikaPikaLight
 
 #include <stdio.h>
 
