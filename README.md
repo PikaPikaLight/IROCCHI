@@ -1,5 +1,5 @@
 # IROCCHI
-色あてゲームをWio Terminalで作りました。  
+色あてゲームを[Wio Terminal](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started "Title")で作りました。  
 ４ｘ４のマスに一つだけ違う色があるのでそれを当てるゲームです。
 
 <div align="left">
